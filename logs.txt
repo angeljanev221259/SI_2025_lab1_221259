@@ -1,0 +1,15 @@
+* ad47fb4 Final commit
+| * 23649d3 Add 221259.txt with documentation
+| * d345b28 Add logs.txt with git log history
+| * b09135a Implemented markTaskAsCompletedByName method
+| | * f55437f Merge pull request #10 from angeljanev221259/2-find-all-completed-tasks
+| |/| 
+| |/  
+|/|   
+* | 27364b5 Implemented findAllCompletedTasks method
+|/  
+| * abd1eb4 Implemented remove task by name feature
+|/  
+* a4b6401 Add starter code
+* 92bf9fb Initial commit
+* cff82e6 Initial commit
